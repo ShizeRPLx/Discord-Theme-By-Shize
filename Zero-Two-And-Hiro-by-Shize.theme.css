@@ -1,0 +1,38 @@
+/**
+* @name Zero Two Thgeme
+* @version Auto Update
+* @description Zero Two <3
+* @author Shize
+* @invite TeRQEPb
+* @Source https://github.com/DiscordStyles/DarkMatter/
+* @website https://betterdiscord.app/theme/Dark%20Matter
+*/
+@import url("https://DiscordStyles.github.io/DarkMatter/src/base.css");
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+:root {
+--background-image: url('https://i.imgur.com/w5iii97.jpg');
+--home-image: url('https://i.imgur.com/w5iii97.jpg');
+--avatar-size: 20px;
+--accent: 232,103,185;
+--accent-alt: 126,31,134;
+--background-solid: rgb(85, 27, 65);
+--background-solid-dark: rgb(138, 53, 117);
+--background-solid-darker: rgb(16, 1, 17);
+--rs-small-spacing: 1px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+--customFont: 'Indie Flower';
+}
